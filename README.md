@@ -1,7 +1,10 @@
 # 效果预览
 ![img](https://github.com/artianO-O/Vue-cms/blob/master/src/images/vue1.jpg)
+
 ![img](https://github.com/artianO-O/Vue-cms/blob/master/src/images/vue2.jpg)
+
 ![img](https://github.com/artianO-O/Vue-cms/blob/master/src/images/vue3.jpg)
+
 ![img](https://github.com/artianO-O/Vue-cms/blob/master/src/images/vue4.jpg)
 
 # 这个是一个vue相关的项目
